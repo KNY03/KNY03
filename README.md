@@ -4,6 +4,11 @@
 
 <br/><br/>
 
+## 📊 Stats
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KNY03&theme=github-dark&hide_border=true&color=2563eb&line=2563eb&point=2563eb" />
+
+
 ## 👋 About Me
 AI · Computer Science  
 Machine Learning · Deep Learning  
@@ -21,8 +26,5 @@ Machine Learning · Deep Learning
 
 <br/><br/>
 
-## 📊 Stats
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KNY03&theme=github-dark&hide_border=true&color=2563eb&line=2563eb&point=2563eb" />
 
 </div>
