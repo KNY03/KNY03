@@ -5,7 +5,7 @@
 <br/><br/>
 
 ## 📊 Stats
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KNY03D&show_icons=true&theme=radical)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KNY03&theme=github-dark&hide_border=true&color=2563eb&line=2563eb&point=2563eb" />
 
 
