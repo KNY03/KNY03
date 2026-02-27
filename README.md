@@ -3,14 +3,16 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:bdd2f4,100:361eeb&height=120&text=Kwak%20Nayeong%20Github&animation=fadeIn&fontColor=ffffff&fontSize=40" />
 
 <br/><br/>
-
-## 📊 Stats
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:bdd2f4,10:361eeb&height=120&text=%20state&animation=fadeIn&fontColor=ffffff&fontSize=100"  width="120"/>
+</div>
 
-<img src="https://github-readme-stats-lemon-seven-46.vercel.app/api?username=KNY03&show_icons=true&theme=algolia&cache_seconds=86400" height="165"/>
+<br/>
 
-<img src="https://github-readme-stats-lemon-seven-46.vercel.app/api/top-langs/?username=KNY03&layout=compact&theme=algolia&cache_seconds=86400" height="165"/>
-
+<div align="center">
+  <img src="https://github-readme-stats-lemon-seven-46.vercel.app/api?username=KNY03&show_icons=true&theme=algolia&cache_seconds=86400&card_width=520" height="165" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-lemon-seven-46.vercel.app/api/top-langs/?username=KNY03&layout=compact&theme=algolia&cache_seconds=86400&card_width=420" height="165" />
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KNY03&theme=github-dark&hide_border=true&color=2563eb&line=2563eb&point=2563eb" />
