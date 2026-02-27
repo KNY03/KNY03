@@ -1,8 +1,8 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:bdd2f4,100:361eeb&height=120&text=Kwak%20Nayeong%20Github&animation=fadeIn&fontColor=ffffff&fontSize=40" />
-
-<br/><br/>
+</div>
+<br/>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:bdd2f4,10:361eeb&height=120&text=%20state&animation=fadeIn&fontColor=ffffff&fontSize=100"  width="120"/>
 </div>
