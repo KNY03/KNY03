@@ -1,39 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:bdd2f4,100:361eeb&height=120&text=Kwak%20Nayeong%20Github&animation=fadeIn&fontColor=ffffff&fontSize=40" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:bdd2f4,10:361eeb&height=120&text=%20state&animation=fadeIn&fontColor=ffffff&fontSize=100"  width="120"/>
-</div>
+<img
+  src="https://capsule-render.vercel.app/api?type=rounded&color=0:bdd2f4,100:361eeb&height=120&text=Kwak%20Nayeong%20Github&animation=fadeIn&fontColor=ffffff&fontSize=40"
+/>
+
+<br/><br/>
+
+### 👋 Welcome to my GitHub
+
+AI · Computer Science · Machine Learning · Deep Learning
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats-lemon-seven-46.vercel.app/api?username=KNY03&show_icons=true&theme=algolia&count_private=true&cache_seconds=60&card_width=420" height="165" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-lemon-seven-46.vercel.app/api/top-langs/?username=KNY03&layout=compact&theme=algolia&count_private=true&cache_seconds=60&card_width=400" height="165" />
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KNY03&theme=github-dark&hide_border=true&color=2563eb&line=2563eb&point=2563eb" />
-
+---
 
 ## 👋 About Me
-AI · Computer Science  
-Machine Learning · Deep Learning  
+
+AI와 Computer Science를 공부하고 있습니다.  
+
+Machine Learning · Deep Learning · NLP 분야에 관심이 있으며,  
 모델 구현과 분석을 통해 문제 해결 능력을 키워가고 있습니다.
 
 <br/>
 
 ## 🛠 Tech Stack
 
+### Languages
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+
+<br/>
+
+### AI / Deep Learning
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+
+<br/>
+
+### Development
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
-<br/><br/>
+<br/>
 
+---
+
+<div align="center">
+
+### 🚀 AI Developer
+
+Machine Learning · Deep Learning · NLP · Computer Vision
 
 </div>
